@@ -1,6 +1,6 @@
-package com.sysquo.twilioxservice.twiliox;
+package com.mamun.twilioxservice.twiliox;
 
-import com.sysquo.twilioxservice.confiig.TwilioConfiguration;
+import com.mamun.twilioxservice.confiig.TwilioConfiguration;
 import com.twilio.rest.api.v2010.account.Message;
 import com.twilio.rest.api.v2010.account.MessageCreator;
 import com.twilio.type.PhoneNumber;

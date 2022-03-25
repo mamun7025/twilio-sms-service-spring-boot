@@ -1,4 +1,4 @@
-package com.sysquo.twilioxservice;
+package com.mamun.twilioxservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

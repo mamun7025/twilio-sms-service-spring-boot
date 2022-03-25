@@ -1,4 +1,4 @@
-package com.sysquo.twilioxservice.twiliox;
+package com.mamun.twilioxservice.twiliox;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

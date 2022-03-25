@@ -1,4 +1,4 @@
-package com.sysquo.twilioxservice.confiig;
+package com.mamun.twilioxservice.confiig;
 
 import com.twilio.Twilio;
 import org.slf4j.Logger;

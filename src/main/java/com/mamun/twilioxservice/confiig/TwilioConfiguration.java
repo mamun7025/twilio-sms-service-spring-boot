@@ -1,4 +1,4 @@
-package com.sysquo.twilioxservice.confiig;
+package com.mamun.twilioxservice.confiig;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;

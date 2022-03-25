@@ -1,4 +1,4 @@
-package com.sysquo.twilioxservice.twiliox;
+package com.mamun.twilioxservice.twiliox;
 
 
 public class SmsRequest {
