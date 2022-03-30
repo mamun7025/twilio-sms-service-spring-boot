@@ -20,10 +20,17 @@ public class SmsController {
     }
 
     @ResponseBody
-    @PostMapping
+    @PostMapping("/single")
     public String sendSms(@RequestBody SmsRequest smsRequest){
         service.sendSms(smsRequest);
         return "SMS send";
+    }
+
+    @ResponseBody
+    @PostMapping("/bulk-sms-send")
+    public String sendBulkSms(@RequestBody SmsRequest smsRequest){
+        service.sendBulkSms(smsRequest);
+        return "Bulk SMS send";
     }
 
 }

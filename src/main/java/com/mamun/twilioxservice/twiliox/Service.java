@@ -17,4 +17,8 @@ public class Service {
         this.smsSender.sendSms(smsRequest);
     }
 
+    public void sendBulkSms(SmsRequest smsRequest){
+        this.smsSender.sendBulkSms(smsRequest);
+    }
+
 }

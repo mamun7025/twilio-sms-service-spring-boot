@@ -10,6 +10,7 @@ public class TwilioConfiguration {
     private String accountSid;
     private String authToken;
     private String trialNumber;
+    private String notifyServiceSid;
 
     public TwilioConfiguration(){
 
@@ -37,5 +38,13 @@ public class TwilioConfiguration {
 
     public void setTrialNumber(String trialNumber) {
         this.trialNumber = trialNumber;
+    }
+
+    public String getNotifyServiceSid() {
+        return notifyServiceSid;
+    }
+
+    public void setNotifyServiceSid(String notifyServiceSid) {
+        this.notifyServiceSid = notifyServiceSid;
     }
 }
