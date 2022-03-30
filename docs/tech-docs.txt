@@ -1,0 +1,7 @@
+
+https://www.youtube.com/watch?v=EMOYY58jyKk
+https://www.twilio.com/docs/notify/api/notification-resource#
+
+https://www.youtube.com/watch?v=n0JIyFIOzEE
+
+https://stackoverflow.com/questions/66482220/how-to-send-bulk-sms-messages-with-twilio-java-sdk
